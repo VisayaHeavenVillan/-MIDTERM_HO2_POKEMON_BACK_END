@@ -1,0 +1,25 @@
+{
+  "name": "midterm_ho2_pokemon_back_end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aagdv/MIDTERM_HO2_POKEMON_BACK_END.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aagdv/MIDTERM_HO2_POKEMON_BACK_END/issues"
+  },
+  "homepage": "https://github.com/aagdv/MIDTERM_HO2_POKEMON_BACK_END#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
